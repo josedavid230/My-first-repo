@@ -1,4 +1,4 @@
-password = 'pepito123'
+password = 'pepito'
 while password != input('Enter your password'):
     print('try again')
 
